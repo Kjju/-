@@ -7,7 +7,7 @@
 이때 회원목록을 누르면
 ![image](https://user-images.githubusercontent.com/109999600/181664051-d0cd984b-68b3-44fa-988d-1e316aa8c835.png)
 <br>
-회원 목록이 없다고 뜬다.
+횐원 등록을 하지 않았기에 회원 목록이 없다고 뜬다.
 여기서 회원 등록을 누르면<br> 
 ![image](https://user-images.githubusercontent.com/109999600/181664306-3905fb1f-d8ad-4707-867b-44fdffd86548.png)
 <br>
