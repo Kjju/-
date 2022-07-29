@@ -26,4 +26,7 @@
 다시 수정을 하여 수정 버튼을 누르면<br>
 ![image](https://user-images.githubusercontent.com/109999600/181665518-939939a5-9621-4460-89ce-bf26de47220f.png)<br>
 회원 정보가 성공적으로 수정되었다며 회원 수정 창이 뜬다.
+회원 목록을 누르면<br>
+![image](https://user-images.githubusercontent.com/109999600/181665647-e4f5d2fe-3314-417e-a85d-d04999ebb7de.png)<br>
+수정한 내용이 목록에 뜬다.
 
