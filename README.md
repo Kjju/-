@@ -14,6 +14,6 @@
 # 회원가입 창
 회원가입 창이 나오면서 회원 등록을 할 수 있다.<br>
 입력을 다 마치면...<br>
-![image](https://user-images.githubusercontent.com/109999600/181664709-5cb32fc9-5f4f-4afe-8092-a4ac6ec9305d.png)
+![image](https://user-images.githubusercontent.com/109999600/181664709-5cb32fc9-5f4f-4afe-8092-a4ac6ec9305d.png)<br>
 회원 등록이 확인 되었다면서 또 할 수 있는 회원등록과 회원 목록을 누를 수 있다.
 
