@@ -21,5 +21,9 @@
 <br>
 아까는 회원 목록이 없다고 뜬 화면이 이번에 입력한 회원등록이 뜬다.<br>
 수정을 누르게 되면<br>
-![image](https://user-images.githubusercontent.com/109999600/181665252-9866f76f-3f5c-4397-aea7-2bacecc844b9.png)
+![image](https://user-images.githubusercontent.com/109999600/181665252-9866f76f-3f5c-4397-aea7-2bacecc844b9.png)<br>
+아까 입력한 아이디,비번,이름,전화번호가 뜬다.<br>
+다시 수정을 하여 수정 버튼을 누르면<br>
+![image](https://user-images.githubusercontent.com/109999600/181665518-939939a5-9621-4460-89ce-bf26de47220f.png)<br>
+회원 정보가 성공적으로 수정되었다며 회원 수정 창이 뜬다.
 
