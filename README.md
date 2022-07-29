@@ -16,4 +16,6 @@
 입력을 다 마치면...<br>
 ![image](https://user-images.githubusercontent.com/109999600/181664709-5cb32fc9-5f4f-4afe-8092-a4ac6ec9305d.png)<br>
 회원 등록이 확인 되었다면서 또 할 수 있는 회원등록과 회원 목록을 누를 수 있다.
-
+여기서 회원 목록을 누르면
+![image](https://user-images.githubusercontent.com/109999600/181664943-dae8936a-d4a7-49c2-bedd-d2b8bf82842f.png)
+아까는 회원 목록이 없다고 뜬 화면이 이번에 입력한 회원등록이 뜬다.
