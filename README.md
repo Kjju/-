@@ -32,7 +32,7 @@
 회원 목록에서 지우고 싶다? 그러면 삭제 버튼을 누르면<br>
 ![image](https://user-images.githubusercontent.com/109999600/181665844-77ff3d73-a8ea-4d23-90ec-ede8cbb9af05.png)<br>
 회원 정보가 성공적으로 삭제 되었다며 삭제 창이 뜬다.<br>
-회원 목록을 누르면 아까와 같이 
+회원 목록을 누르면 아까와 같이 <br>
 ![image](https://user-images.githubusercontent.com/109999600/181665935-f884fd44-e01d-44a1-b735-bfc8dae180da.png)<br>
 회원 목록이 없다고 뜬다.
 
